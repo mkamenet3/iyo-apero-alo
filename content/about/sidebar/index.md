@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Maria Kamenetsky"
+role: "PhD Candidate, Epidemiology - University of Wisconsin-Madison"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
 show_social: true
@@ -11,11 +11,11 @@ audio_link:
   url: audio.m4a
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
+- name: Spatial Epidemiology
   url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
+- name: Statistics
   url: https://en.wikipedia.org/wiki/Pastry
-- name: People
+- name: Data Science
   url: https://en.wikipedia.org/wiki/People
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Maria Kamenetsky"
+subtitle: "PhD Candidate, Epidemiology - University of Wisconsin-Madison"
+description: "I am a PhD candidate in Epidemiology at the University of Wisconsin-Madison and am advised by Professor Ronald Gangnon and Professor Jun Zhu. My research focuses on methods in spatial epidemiology, specifically working on statistical methods and applications in spatial cluster detection. I am also a Project Assistant (Statistical Consultant) with the CALS Statistical Consulting Lab. I was a 2016 Data Science Fellow at Data Science for Social Good."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
